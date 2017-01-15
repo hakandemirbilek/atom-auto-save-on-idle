@@ -7,7 +7,7 @@
   ],
   "activationCommands": {
   },
-  "repository": "https://github.com/atom/auto-save-on-idle",
+  "repository": "https://github.com/hdsc/atom-auto-save-on-idle",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

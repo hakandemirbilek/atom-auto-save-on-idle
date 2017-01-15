@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle Auto Save On Idle",
+        "command": "auto-save-on-idle:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Auto Save On Idle",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "auto-save-on-idle:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

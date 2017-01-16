@@ -2,7 +2,7 @@
 
 Auto-saves the current file when you stop typing.
 
-Auto-save fires if you've added more than 10 chars or deleted any part of the document.
+Auto-save fires 1.5 seconds after the last change.
 
 You can enable / disable with the menu item.
 

@@ -1,7 +1,7 @@
 {
   "name": "auto-save-on-idle",
   "main": "./lib/auto-save-on-idle",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Saves the current file when you stop typing. You can enable / disable using the menu:toggle",
   "keywords": [
     "auto save, autosave"
